@@ -1,0 +1,14 @@
+.vs/
+.VSCodeCounter/
+.nuget/
+Dist/
+Logs/
+bin/
+obj/
+*.DotSettings.user
+*.csproj.user
+*.log
+
+.vscode/
+
+Src/DmclPreOrder.Common/Config/appsettings.json
